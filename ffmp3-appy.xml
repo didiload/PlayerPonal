@@ -1,0 +1,10 @@
+<!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="250" height="213">
+<param name="movie" value="muses.swf" />
+<param name="flashvars" value="url=http://190.24.236.154:7778/gospel&lang=es&codec=mp3&volume=60&introurl=&tracking=true&jsevents=true&buffering=5&skin=ffmp3-appy.xml&title=Gospel%20Musica&welcome=Bienvenido..." />
+<param name="wmode" value="transparent" />
+<param name="allowscriptaccess" value="always" />
+<param name="scale" value="noscale" />
+<embed src="muses.swf" flashvars="url=http://190.24.236.154:7778/gospel&lang=es&codec=mp3&volume=60&introurl=&tracking=true&jsevents=true&buffering=5&skin=ffmp3-appy.xml&title=Gospel%20Musica&welcome=Bienvenido..." width="250" scale="noscale" height="213" wmode="transparent" allowscriptaccess="always" type="application/x-shockwave-flash" />
+</object>
+<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
