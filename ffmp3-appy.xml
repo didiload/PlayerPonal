@@ -1,0 +1,8 @@
+<muses-skin folder="ffmp3-appy" togglePlayStop="true">
+  <bg image="bg.png" x="0" y="0" />
+  <play image="play.png" x="19" y="134" clickimage="play.png" />
+  <stop image="stop.png" x="19" y="134" clickimage="stop.png" bgimage="stop.png" />
+  <text x="103" y="14" width="103" height="14" color="#000" font="Georgia, 'Times New Roman', Times, serif" size="12" />
+  <volume x="80" y="191" width="117" height="15" holderImage="holder.png" mode="holder" />
+  <status imagePlay="statusplay.png" imageStop="statusstop.png" x="14" y="1" />
+</muses-skin>
